@@ -1,0 +1,17 @@
+#attachmentmenupreview::before {
+    content: "\f06e";
+}
+
+.attachmentPreview, .attachmentPreview iframe {
+    height: 100vh;
+    width: 100vw;  
+    border: 0;
+}
+
+.attachmentPreview {
+    background-color: white;
+    z-index: 100;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
