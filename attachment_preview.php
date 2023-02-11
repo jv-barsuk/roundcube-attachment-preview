@@ -6,7 +6,7 @@
      *
      * @version 0.1
      * @author meles
-     * @url http://roundcube.net/plugins/*
+     * @url https://github.com/jv-barsuk/roundcube_attachment_preview
      */
     class attachment_preview extends rcube_plugin
     {

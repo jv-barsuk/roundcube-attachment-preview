@@ -10,7 +10,7 @@ The plugin adds an option to the attachment menu, so you can preview the attachm
 ## Install
 Execute the following lines in your Roundcube plugins folder
 ~~~
-wget -qO- https://github.com/jv-barsuk/roundcube_attachment_preview/archive/refs/heads/main.zip | busybox unzip -; mv roundcube_-_attachment_preview-main attachment_preview
+wget -q https://github.com/jv-barsuk/roundcube_attachment_preview/archive/refs/heads/main.zip -O attachment_preview.zip; unzip attachment_preview.zip; mv roundcube_attachment_preview-main attachment_preview; rm attachment_preview.zip
 ~~~
 
 add the plugin `'attachment_preview',` to the plugins list in your roundcube config file `config/config.inc.php`:

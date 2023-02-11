@@ -3,7 +3,7 @@
     "type": "roundcube-plugin",
     "description": "Preview Attachment in message area instead of new tab",
     "keywords": ["mail","roundcube","attachments"],
-    "homepage": "",
+    "homepage": "https://github.com/jv-barsuk/roundcube_attachment_preview",
     "version": "0.1.0",
     "license": "GPL-3.0+",
     "authors": [
