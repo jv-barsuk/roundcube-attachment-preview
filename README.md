@@ -5,8 +5,7 @@ Preview attachment in message area instead of new tab.
 ## Usage
 The plugin adds an option to the attachment menu, so you can preview the attachment right within the message area:
 
-
-![](docs/attachment_menu.png)
+<img src="docs/attachment_menu.png" alt= “” width="400px" height="112px">
 
 ## Install
 Execute the following lines in your Roundcube plugins folder
